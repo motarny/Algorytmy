@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+phpunit_config_file=
+preload_script=/NaukaAlgorytmy/tests/bootstrap.php
+test_file_pattern=
+test_folders=/NaukaAlgorytmy/tests
+testing_framework=PHPUnit
